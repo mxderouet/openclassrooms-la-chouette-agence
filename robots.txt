@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://mxderouet.github.io/openclassrooms-la-chouette-agence/sitemap.xml
